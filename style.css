@@ -181,6 +181,11 @@ section .body ul, section .body ol{
 footer {
     padding-block: 2rem;
     padding-inline: .5rem;
-    margin-top: 2rem;
+    margin-top: 5rem;
     background-color: #111;
+}
+
+footer a{
+    color: #04cc63;
+    margin-top: 1rem;
 }
