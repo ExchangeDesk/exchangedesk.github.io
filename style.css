@@ -178,3 +178,9 @@ section .body ul, section .body ol{
 }
 
 
+footer {
+    padding-block: 2rem;
+    padding-inline: .5rem;
+    margin-top: 2rem;
+    background-color: #111;
+}
